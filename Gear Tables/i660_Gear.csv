@@ -1,0 +1,21 @@
+Name,Slot,Ilvl,Unique,Meld Slots,Overmeld,Primary,Secondary
+Augmented Credendum Circlet of Casting,Head,660,TRUE,2,FALSE,Crit,DH
+Augmented Credendum Surcoat of Casting,Chest,660,TRUE,2,FALSE,Crit,Det
+Augmented Credendum Gauntlets of Casting,Hands,660,TRUE,2,FALSE,SS,DH
+Augmented Credendum Hose of Casting,Legs,660,TRUE,2,FALSE,Det,SS
+Augmented Credendum Sollerets of Casting,Feet,660,TRUE,2,FALSE,DH,Crit
+Augmented Credendum Earrings of Casting,Ear,660,TRUE,2,FALSE,SS,DH
+Augmented Credendum Necklace of Casting,Neck,660,TRUE,2,FALSE,Det,Crit
+Augmented Credendum Bracelets of Casting,Wrist,660,TRUE,2,FALSE,Det,SS
+Augmented Credendum Ring of Casting,Finger,660,TRUE,2,FALSE,DH,SS
+Ascension Turban of Casting,Head,660,TRUE,2,FALSE,SS,Det
+Ascension Robe of Casting,Chest,660,TRUE,2,FALSE,SS,DH
+Ascension Gloves of Casting,Hands,660,TRUE,2,FALSE,Crit,Det
+Ascension Longkilt of Casting,Legs,660,TRUE,2,FALSE,DH,Crit
+Ascension Sandals of Casting,Feet,660,TRUE,2,FALSE,Det,SS
+Ascension Earring of Casting,Ear,660,TRUE,2,FALSE,Crit,Det
+Ascension Necklace of Casting,Neck,660,TRUE,2,FALSE,DH,SS
+Ascension Bracelet of Casting,Wrist,660,TRUE,2,FALSE,Crit,Det
+Ascension Ring of Casting,Finger,660,TRUE,2,FALSE,Crit,Det
+Augmented Ignis Malus,Weapon,660,TRUE,2,FALSE,SS,Crit
+Rod of Ascension,Weapon,665,TRUE,2,FALSE,Crit,SS

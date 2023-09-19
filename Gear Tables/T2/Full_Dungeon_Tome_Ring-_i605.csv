@@ -1,0 +1,13 @@
+Name,Slot,Ilvl,Unique,Meld Slots,Overmeld,Primary,Secondary
+Augmented Radiant's Ring of Casting,Finger,600,TRUE,2,FALSE,Crit,DH
+Augmented Radiant's Scepter,Weapon,600,TRUE,2,FALSE,DH,Det
+Asphodelos Staff,Weapon,605,TRUE,2,FALSE,SS,Crit
+Manalis Hat of Casting,Head,605,TRUE,2,FALSE,SS,Crit
+Manalis Coat of Casting,Chest,605,TRUE,2,FALSE,Det,DH
+Manalis Dress Gloves of Casting,Hands,605,TRUE,2,FALSE,Crit,SS
+Manalis Trousers of Casting,Legs,605,TRUE,2,FALSE,Det,Crit
+Manalis Boots of Casting,Feet,605,TRUE,2,FALSE,SS,Det
+Manalis Earrings of Casting,Ear,605,TRUE,1,FALSE,Crit,Det
+Manalis Choker of Casting,Neck,605,TRUE,1,FALSE,DH,Crit
+Manalis Wristband of Casting,Wrist,605,TRUE,1,FALSE,Crit,DH
+Manalis Ring of Casting,Finger,605,TRUE,1,FALSE,DH,Det

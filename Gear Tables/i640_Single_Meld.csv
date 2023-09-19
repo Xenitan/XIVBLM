@@ -1,0 +1,21 @@
+Name,Slot,Ilvl,Unique,Meld Slots,Overmeld,Primary,Secondary
+Diadochos Beret of Casting,Head,640,FALSE,3,FALSE,SS,Det
+Diadochos Coat of Casting,Chest,640,FALSE,3,FALSE,Crit,Det
+Diadochos Armlets of Casting,Hands,640,FALSE,3,FALSE,DH,Crit
+Diadochos Bottoms of Casting,Legs,640,FALSE,3,FALSE,DH,Crit
+Diadochos Boots of Casting,Feet,640,FALSE,3,FALSE,Crit,SS
+Diadochos Earring of Casting,Ear,640,FALSE,2,FALSE,Det,DH
+Diadochos Choker of Casting,Neck,640,FALSE,2,FALSE,Crit,Det
+Diadochos Wristband of Casting,Wrist,640,FALSE,2,FALSE,DH,SS
+Diadochos Ring of Casting,Finger,640,FALSE,2,FALSE,Crit,SS
+Diadochos Rod,Weapon,640,FALSE,3,FALSE,SS,Crit
+Voidcast Rod,Weapon,645,TRUE,2,FALSE,Crit,SS
+Anabaseios Turban of Casting,Head,640,TRUE,2,FALSE,Crit,DH
+Anabaseios Robe of Casting,Chest,640,TRUE,2,FALSE,DH,Crit
+Anabaseios Gloves of Casting,Hands,640,TRUE,2,FALSE,SS,Det
+Anabaseios Longkilt of Casting,Legs,640,TRUE,2,FALSE,SS,Det
+Anabaseios Sandals of Casting,Feet,640,TRUE,2,FALSE,DH,Det
+Anabaseios Earring of Casting,Ear,640,TRUE,1,FALSE,Crit,DH
+Anabaseios Necklace of Casting,Neck,640,TRUE,1,FALSE,Det,SS
+Anabaseios Bracelet of Casting,Wrist,640,TRUE,1,FALSE,Crit,DH
+Anabaseios Ring of Casting,Finger,640,TRUE,1,FALSE,DH,Det

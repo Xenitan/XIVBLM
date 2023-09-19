@@ -1,0 +1,21 @@
+Name,Slot,Ilvl,Unique,Meld Slots,Overmeld,Primary,Secondary
+Rinascita Hood of Casting,Head,610,FALSE,2,FALSE,Crit,DH
+Rinascita Coat of Casting,Chest,610,FALSE,2,FALSE,Det,SS
+Rinascita Armguards of Casting,Hands,610,FALSE,2,FALSE,Crit,DH
+Rinascita Poleyns of Casting,Legs,610,FALSE,2,FALSE,Crit,Det
+Rinascita Shoes of Casting,Feet,610,FALSE,2,FALSE,SS,Det
+Rinascita Earring of Casting,Ear,610,FALSE,1,FALSE,Crit,DH
+Rinascita Necklace of Casting,Neck,610,FALSE,1,FALSE,SS,DH
+Rinascita Bracelet of Casting,Wrist,610,FALSE,1,FALSE,DH,SS
+Rinascita Ring of Casting,Finger,610,FALSE,1,FALSE,Crit,SS
+Rinascita Rod,Weapon,610,FALSE,2,FALSE,SS,Crit
+Windswept Rod,Weapon,615,TRUE,2,FALSE,Crit,SS
+Purgatory Helm of Casting,Head,610,TRUE,2,FALSE,SS,Det
+Purgatory Surcoat of Casting,Chest,610,TRUE,2,FALSE,Crit,DH
+Purgatory Armguards of Casting,Hands,610,TRUE,2,FALSE,SS,Det
+Purgatory Culottes of Casting,Legs,610,TRUE,2,FALSE,DH,SS
+Purgatory Boots of Casting,Feet,610,TRUE,2,FALSE,Crit,DH
+Purgatory Earrings of Casting,Ear,610,TRUE,1,FALSE,Det,SS
+Purgatory Choker of Casting,Neck,610,TRUE,1,FALSE,Crit,Det
+Purgatory Amulet of Casting,Wrist,610,TRUE,1,FALSE,Crit,Det
+Purgatory Ring of Casting,Finger,610,TRUE,1,FALSE,DH,Crit
